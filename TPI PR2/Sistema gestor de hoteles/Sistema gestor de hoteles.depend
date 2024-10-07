@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1728321373 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\main.cpp
+	<iostream>
+	<string>
+	"Datos.h"
+	"Duenio.h"
+	"Cliente.h"
+	"Hoteles.h"
+
+1728320983 c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\datos.h
+	<iostream>
+	<string>
+
+1728319919 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\cliente.cpp
+	<iostream>
+	<string>
+	"Datos.h"
+	"Cliente.h"
+
+1728315086 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\dueño.cpp
+
+1728320672 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\hoteles.cpp
+	<iostream>
+	<string>
+	"Duenio.h"
+	"Hoteles.h"
+
+1728320222 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\duenio.cpp
+	<iostream>
+	<string>
+	"Datos.h"
+	"Duenio.h"
+
+1728319919 c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\cliente.h
+	<string>
+	"datos.h"
+
+1728320171 c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\duenio.h
+	<string>
+	"datos.h"
+
+1728320575 c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\hoteles.h
+	<iostream>
+	"Duenio.h"
+
+1728319919 source:c:\users\user\desktop\tpi pr2\sistema gestor de hoteles\datos.cpp
+	"Datos.h"
+	<string>
+
